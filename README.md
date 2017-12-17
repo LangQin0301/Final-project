@@ -1,8 +1,8 @@
-# Final-project-The Dark Side of Lighting
+# Final-project
 ### 12/16/17
 ### Lang Qin
 ### Metrics + Data Visualization I
-
+### The Dark Side of Lighting
 
 
 I was inspired by the article _The Dark Side —— Making war on light pollution_ by David Owen on THE NEW YORKER website. This article is about how light pollution affects us and undermines our valuables from every aspect. It reveals a astounding truth that overwhelming lighting not only threatens humans' security and health(both mental and physical), but also influences our society's well-being, and ruins the whole ecosystem.
